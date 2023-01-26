@@ -32,7 +32,9 @@ print("Program is developed BY: LOKESH RAHUL V V")
 print("Word count in file= ",count)
 ```
 ### OUTPUT:
+
 ![file1](https://user-images.githubusercontent.com/118423842/214762622-c1ad77e9-e27f-4643-99b4-13be9fbd308b.jpg)
+
 ![file2](https://user-images.githubusercontent.com/118423842/214762643-aa268167-e450-48d6-9c42-8b31d5e97251.jpg)
 
 ## RESULT:
