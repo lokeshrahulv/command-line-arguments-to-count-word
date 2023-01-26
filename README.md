@@ -19,18 +19,21 @@ Split the line using .split
 Count the length of the word and print it
 ## PROGRAM:
 ```
-#Developed by LOKESH RAHUL V V
-#ROLL NO : 22004702
+Developed by LOKESH RAHUL V V
+Register no: 22004702
+
 import sys
 count=0
-with open(sys.argv[1],'r') as f:
-        for line in f:
+with open(sys.argv[1],'r') as file:
+        for line in file:
             word=line.split()
-            count+=len(word)
-print("Word Count in File=",count)
+            count += len(word)
+print("Program is developed BY: LOKESH RAHUL V V")            
+print("Word count in file= ",count)
 ```
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/118423842/214001528-7757efbf-7318-4b82-9b70-f945439e89de.png)
+![file1](https://user-images.githubusercontent.com/118423842/214762622-c1ad77e9-e27f-4643-99b4-13be9fbd308b.jpg)
+![file2](https://user-images.githubusercontent.com/118423842/214762643-aa268167-e450-48d6-9c42-8b31d5e97251.jpg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
